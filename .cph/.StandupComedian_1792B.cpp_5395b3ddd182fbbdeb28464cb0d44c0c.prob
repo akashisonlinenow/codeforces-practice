@@ -1,0 +1,1 @@
+{"name":"Local: StandupComedian_1792B","url":"c:\\Codeforces-practice\\StandupComedian_1792B.cpp","tests":[{"id":1678730127400,"input":"4\n5 0 0 0\n0 0 0 5\n2 5 10 6\n3 0 0 7\n","output":"5\n1\n15\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces-practice\\StandupComedian_1792B.cpp","group":"local","local":true}
